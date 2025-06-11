@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-gamma-indol.vercel.app/](https://new-portfolio-gamma-indol.vercel.app/)
 
-- 💬 Ask me about **ReactJS, NextJS, MongoDB, Typescript, Firebase**
+- 💬 Ask me about **ReactJS, NextJS, MongoDB, Typescript, Firebase, anything but how I debugged for 6 hours only to fix a typo :(**
 
 - 📫 How to reach me **arunabhsen100705@gmail.com**
 
