@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arunabh Sen</h1>
+<h1 align="center">Hey there, I'm Arunabh Sen</h1>
 <h3 align="center">I'm an IT student based in India. I enjoy building softwares, web applications, exploring new technologies, and sharing what I learn along the way.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabh-sen&label=Profile%20views&color=0e75b6&style=flat" alt="arunabh-sen" /> </p>
