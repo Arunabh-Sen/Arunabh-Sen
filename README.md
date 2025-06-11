@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunabh-sen" alt="arunabh-sen" /></a> </p>
 
-- 🔭 I’m currently working on **Design and development of an efficient framework for the real-time coordination and communication for a swarm of autonomous robots.**
+- 🔭 I’m currently interning at IIT Bhubaneswar on a project titled **Design and development of an efficient framework for the real-time coordination and communication for a swarm of autonomous robots.**
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-gamma-indol.vercel.app/](https://new-portfolio-gamma-indol.vercel.app/)
 
