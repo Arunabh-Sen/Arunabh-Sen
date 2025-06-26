@@ -1,5 +1,5 @@
 # Hey, I'm Arunabh Sen
-🔭 I’m currently interning at IIT Bhubaneswar on a project titled Design and development of an efficient framework for the real-time coordination and communication in a swarm of autonomous robots.<br>👨‍💻 All of my projects are available at https://new-portfolio-gamma-indol.vercel.app/<br>💬 Ask me about ReactJS, NextJS, MongoDB, Typescript, Firebase, etc but not how I debugged for 6 hours only to fix a typo :(<br>📫 How to reach me arunabhsen100705@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1ZGpolYprZJKjeOZQvhH_Qzhn1RN3YMGN/view?usp=sharing<br>⚡ Fun fact I think I’m funny. Robots don’t. Working on that.
+🔭 I’m currently interning at IIT Bhubaneswar on a project titled Design and development of an efficient framework for the real-time coordination and communication in a swarm of autonomous robots.<br>👨‍💻 All of my projects are available at https://new-portfolio-gamma-indol.vercel.app/<br>💬 Ask me about ReactJS, NextJS, MongoDB, Typescript, Firebase, etc but not how I debugged for 6 hours only to fix a typo :(<br>📫 How to reach me arunabhsen100705@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1ZGpolYprZJKjeOZQvhH_Qzhn1RN3YMGN/view?usp=sharing<br>⚡ Fun fact I think I’m funny. Robots don’t. Working on that :)
 
 
 ## 🌐 Socials:
